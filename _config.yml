@@ -1,3 +1,15 @@
+title: Missing Link Accessibility
+description: A blog about accessibility in web development
+author: Daniel Westfall
+baseurl: "" # No subdirectory
 theme: minima
-title: "Daniel's Accessibility Journal"
-author: "Daniel Westfall"
+social:
+  twitter: your_twitter_handle
+  github: danielwestfall
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Posts
+    url: /posts/
