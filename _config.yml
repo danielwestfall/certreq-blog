@@ -1,8 +1,6 @@
 title: Missing Link Accessibility
 description: A blog about accessibility in web development
 author: Daniel Westfall
-baseurl: "" # No subdirectory
 theme: minima
 social:
-  twitter: your_twitter_handle
   github: danielwestfall
