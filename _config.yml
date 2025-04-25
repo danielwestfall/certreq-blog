@@ -6,10 +6,3 @@ theme: minima
 social:
   twitter: your_twitter_handle
   github: danielwestfall
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
