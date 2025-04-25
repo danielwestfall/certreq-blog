@@ -7,28 +7,12 @@
 </header>
 
 
-## Finish
+## Let's Learn Accessible Web Development
 
-_Congratulations friend, you've completed this course!_
+<img src='https://certreq.dev/certreq-blog/assets/images/avatar_laptop.png' alt='Daniels avatar holding a laptop' width=300 align=right>
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+In this series, we'll embark on the journey of building your own "digital home" on the internet by exploring the foundational technologies of web development. We'll start by understanding HTML, the structural blueprint of every webpage, emphasizing semantic HTML for clarity and accessibility. Then, we'll delve into CSS, the styling language that allows you to design and customize the visual appearance of your digital space, making it welcoming and user-friendly. Next, we'll unlock the power of JavaScript, the scripting language that adds interactivity and dynamic functionality, bringing your website to life. Finally, we'll learn about ARIA, a crucial set of attributes that ensures your digital home is accessible to everyone, regardless of their abilities, by providing essential information to assistive technologies. By the end of this series, you'll have a solid understanding of these core technologies and the principles of building inclusive and well-structured websites.
 
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
